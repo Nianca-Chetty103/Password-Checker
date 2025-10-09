@@ -7,9 +7,14 @@ A simple java based password checker that evaluates the strength of user-entered
 - Rates the password as weak, strong or medium.
 - Suggests how the user can improve their password for better security.
 
-# Why I built this
-i built this to strengthen my java skills as well as allow myself to explore different IDEs and learning about security basic security practises.
+# Problem 😕
+i built this to strengthen my java skills as well as allow myself to explore different IDEs and learning about security basic security practises, as well as the demand for technology is growing, we are in need of more security measures in place.
+
+# Solution 💡
+- this can help people make better passwords
+- help them understand security measures
 
 # Tech Stack
 - used android studio as first time
 - Figma
+
