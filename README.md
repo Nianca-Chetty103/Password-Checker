@@ -1,6 +1,6 @@
 ﻿# Password-Checker 🔒
 A simple java based password checker that evaluates the strength of user-entered passwords based on the length, having specific and variety of characters.
-
+![App Screenshot](https://github.com/Nianca-Chetty103/Password-Checker/blob/main/Screenshot%202025-09-16%20173631.png)
 
 ## Features
 - Checks the strength and complexity of a password
@@ -19,6 +19,7 @@ We all have dozens of passwords - but how man of them are actually strong enough
 ## Tech Stack
 - used android studio
 - Figma
+
 
 
 
