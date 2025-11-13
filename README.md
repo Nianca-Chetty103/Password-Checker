@@ -1,6 +1,7 @@
 ﻿# Password-Checker 🔒
 A simple java based password checker that evaluates the strength of user-entered passwords based on the length, having specific and variety of characters.
 
+
 ## Features
 - Checks the strength and complexity of a password
 - Can detect various characters from uper and lowercase letters, numbers and symbols
@@ -18,6 +19,7 @@ We all have dozens of passwords - but how man of them are actually strong enough
 ## Tech Stack
 - used android studio
 - Figma
+
 
 
 
