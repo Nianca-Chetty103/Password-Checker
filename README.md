@@ -1,7 +1,7 @@
 ﻿# Password-Checker 🔒
 A simple java based password checker that evaluates the strength of user-entered passwords based on the length, having specific and variety of characters.
 
-<img src="https://github.com/Nianca-Chetty103/Password-Checker/raw/main/Screenshot%202025-09-16%20173631.png" width="200"> <img src="https://github.com/Nianca-Chetty103/Password-Checker/blob/main/Screenshot%202025-09-16%20173709.png" width="200">
+<img src="https://github.com/Nianca-Chetty103/Password-Checker/blob/main/Screenshot%202025-09-16%20173631.png" width="200"> <img src="https://github.com/Nianca-Chetty103/Password-Checker/blob/main/Screenshot%202025-09-16%20173709.png" width="200">
 <img src="https://github.com/Nianca-Chetty103/Password-Checker/blob/main/Screenshot%202025-09-16%20173739.png" width="200">
 
 ## Features
@@ -14,13 +14,19 @@ A simple java based password checker that evaluates the strength of user-entered
 ## Problem 😕
 We all have dozens of passwords - but how man of them are actually strong enough to keep our accounts safe?  I built this to strengthen my java skills as well as allow myself to explore different IDEs and learning about security basic security practises, as well as the demand for technology is growing, we are in need of more security measures in place.
 
-## Solution 💡
-- this can help people make better passwords
+## How does it help the community 💡
+- this can help and educate people make better passwords
 - help them understand security measures
 
+## What I learnt 
+- creating passwords for people who dont know much about IT and cybersecurity can be a hassle.
+- security measures
+- creating secures measure with passwords.
+  
 ## Tech Stack
 - used android studio
 - Figma
+
 
 
 
